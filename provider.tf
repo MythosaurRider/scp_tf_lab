@@ -7,7 +7,7 @@ terraform {
 }
 
 provider "scp" {
-  stack  = "fs-s3-shw-3e7dc5d4cb2a"
+  stack  = "fs-s3-shw-7a5cdf9b3a85"
   server = "https://staging.admin.splunk.com"
   auth_token = "XXX"
 }
