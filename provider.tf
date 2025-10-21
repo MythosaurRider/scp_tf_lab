@@ -2,7 +2,6 @@ terraform {
   required_providers {
     scp = {
       source  = "splunk/scp"
-      version = "1.2.3"  # adjust version as needed
     }
   }
 }

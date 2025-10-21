@@ -1,5 +1,6 @@
 # scp_tf_lab
 Lab contents for Splunk Cloud Terraform starter lab
+For all objects created, please use firstname_lastname as part of object name (We are using a shared environment)
 
 1. Clone lab Github repository<br />
     ```git clone https://github.com/MythosaurRider/scp_tf_lab.git```
@@ -40,4 +41,4 @@ Lab contents for Splunk Cloud Terraform starter lab
 
 13. Delete the index. 
 
-14. Create a HEC token. Use template in hec_tokens.tf
+14. Create a HEC token. Use template in hec_tokens.tf. Use firstname_lastname as part of token name
