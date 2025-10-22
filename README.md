@@ -10,7 +10,7 @@ For all objects created, please use firstname_lastname as part of object name (W
 3. Check out folder contents. What is in *.tf files?<br />
     ```cat provider.tf```
 
-4. log into Splunk Cloud.
+4. Log into Splunk Cloud.
 
 5. Create a token for Terraform to authenticate with
 
@@ -19,10 +19,10 @@ For all objects created, please use firstname_lastname as part of object name (W
 7. Initialize terraform for directory<br />
     ```terraform init```
 
-8. run terraform plan. What happens? Does it look ok?<br />
+8. Run terraform plan. What happens? Does it look ok?<br />
     ```terraform plan```
 
-9. run terraform apply. What is the difference to tarraform plan?<br />
+9. Run terraform apply. What is the difference to tarraform plan?<br />
     ```terraform apply```
 
 10. Add an index. Call it firstname_lastname_testindex
